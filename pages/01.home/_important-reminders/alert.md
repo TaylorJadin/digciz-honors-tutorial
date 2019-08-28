@@ -6,4 +6,4 @@ visible: false
 ---
 
 ## Reminders
-* Our first meeting is this Thursday, Aug 29 from 2-3pm in the basement of the **Cassandra Voss Center**
+* Our first meeting is this Thursday, Aug 29 from 2-3pm in the lower level of the **Cassandra Voss Center**
