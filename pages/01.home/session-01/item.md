@@ -14,4 +14,4 @@ hide_git_sync_repo_link: true
 
 ===
 
-## Hey there early bird! Check back later, pretty soon there will be stuff here!
+## Hey early bird! Check back later, pretty soon there will be stuff here!
