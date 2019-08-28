@@ -14,7 +14,7 @@ cache_enable: false
   padding: 5px;">
   <h3>Instructor</h3>
   <p>
-  <h4>Taylor Jadin</h4> <br>
+  <h4>Taylor Jadin</h4>
   <a href="mailto:taylor.jadin@snc.edu">taylor.jadin@snc.edu</a> <br>
   <a href="https://jadin.me">jadin.me</a> <br>
   <a href="https://twitter.com/taylorjadin">@taylorjadin</a> <br>
