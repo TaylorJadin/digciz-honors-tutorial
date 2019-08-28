@@ -8,7 +8,8 @@ cache_enable: false
   padding: 5px;">
 <h3>Course Info</h3>
 <p>
-  When: Thursdays from 2-3pm (check the <a href="/schedule">schedule page</a> for more info)<br>
+  When: Thursdays from 2-3pm (check the <a href="/schedule">schedule page</a> for more detail)
+  
   Where: Cassandra Voss Center, Room 008
 </p>
 </div>
