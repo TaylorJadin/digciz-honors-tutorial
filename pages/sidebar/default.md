@@ -10,15 +10,14 @@ cache_enable: false
 <p>When: Thursdays from 2-3pm (check the <a href="/schedule">schedule page</a> for more detail)</p>
 <p>Where: Cassandra Voss Center, Room 008</p>
 </div>
-
 <div style="
   padding: 5px;">
 <h3>Instructor</h3>
 <p>
 Taylor Jadin <br>
 <a href="mailto:taylor.jadin@snc.edu">taylor.jadin@snc.edu</a> <br>
-Cofrin Hall Room 119
-<a href="https://jadin.me">jadin.me</a>
+Cofrin Hall Room 119 <br>
+<a href="https://jadin.me">jadin.me</a> <br>
 <a href="https://twitter.com/taylorjadin">@taylorjadin</a>
 </p>
 <p>
