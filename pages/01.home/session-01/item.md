@@ -1,9 +1,9 @@
 ---
 title: 'Session 1 (Aug 29)'
 published: true
-header_image_alt_text: ''
-header_image_credit: ''
-header_image_creditlink: ''
+header_image_alt_text: 'Canoe on Lake constance'
+header_image_credit: 'Image by Michael Schwarzenberger from Pixabay'
+header_image_creditlink: 'https://pixabay.com/photos/lake-constance-mountains-alpine-596461/'
 hide_from_post_list: false
 continue_link: true
 hide_git_sync_repo_link: true
