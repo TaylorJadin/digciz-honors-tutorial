@@ -7,18 +7,18 @@ cache_enable: false
 <div style="
   padding: 5px;">
   <h3>Course Info</h3>
-  <p>When: Thursdays from 2-3pm (check the <a href="/schedule">schedule page</a> for more detail)</p>
-  <p>Where: Cassandra Voss Center, Room 008</p>
+  <p>**When:** Thursdays from 2-3pm (check the <a href="/schedule">schedule page</a> for more detail)</p>
+  <p>**Where:** Cassandra Voss Center, Room 008</p>
 </div>
 <div style="
   padding: 5px;">
   <h3>Instructor</h3>
   <p>
-  Taylor Jadin <br>
+  <h4>Taylor Jadin</h4> <br>
   <a href="mailto:taylor.jadin@snc.edu">taylor.jadin@snc.edu</a> <br>
-  Cofrin Hall Room 119 <br>
   <a href="https://jadin.me">jadin.me</a> <br>
-  <a href="https://twitter.com/taylorjadin">@taylorjadin</a>
+  <a href="https://twitter.com/taylorjadin">@taylorjadin</a> <br>
+  Cofrin Hall Room 119
   </p>
   <p>
   Office hours are available by appointment. Email me or <a href="https://www.meetingbird.com/l/taylorjadin/digciz">book time on my calendar</a>.
