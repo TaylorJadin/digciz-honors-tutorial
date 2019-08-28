@@ -18,6 +18,8 @@ cache_enable: false
 Taylor Jadin <br>
 <a href="mailto:taylor.jadin@snc.edu">taylor.jadin@snc.edu</a> <br>
 Cofrin Hall Room 119
+<a href="https://jadin.me">jadin.me</a>
+<a href="https://twitter.com/taylorjadin">@taylorjadin</a>
 </p>
 <p>
 Office hours are available by appointment. Email me or <a href="https://www.meetingbird.com/l/taylorjadin/digciz">book time on my calendar</a>.
