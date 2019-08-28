@@ -6,6 +6,15 @@ cache_enable: false
 ---
 <div style="
   padding: 5px;">
+<h3>Course Info</h3>
+<p>
+  When: Thursdays from 2-3pm (check the <a href="/schedule">schedule page</a> for more info)
+  Where: Cassandra Voss Center, Room 008
+</p>
+</div>
+
+<div style="
+  padding: 5px;">
 <h3>Instructor</h3>
 <p>
 Taylor Jadin <br>
