@@ -8,7 +8,7 @@ hide_git_sync_repo_link: false
 
 All meetings below will take place in the **Cassandra Voss Center, Room 008**, on Thursdays from 2 - 3pm.
 
-| Topic | Date/Time |
+| Topic | Date |
 |:--|:--|
 | Introductions, Expectations, and Getting Started | August 29th |
 | Digital Privacy | September 5th |
