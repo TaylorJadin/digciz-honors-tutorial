@@ -2,19 +2,12 @@
 title: Syllabus
 published: true
 hide_page_title: true
-show_sidebar: false
+show_sidebar: true
 hide_git_sync_repo_link: false
 ---
 
 # Digital Citizenship
 ## Honors Tutorial - Fall 2019
-<br>
-### Instructor
-Taylor Jadin <br>
-<taylor.jadin@snc.edu> <br>
-Cofrin Hall Room 119 <br>
-Office hours are available by appointment. Email me or [book time on my calendar](https://www.meetingbird.com/l/taylorjadin/digciz)
-
 
 ### Description
 This tutorial explores what it means to be a person online, how digital environments affect your persona (and vice versa), and how people represent themselves in an online community.
