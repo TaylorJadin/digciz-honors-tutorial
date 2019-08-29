@@ -15,9 +15,13 @@ hide_git_sync_repo_link: true
 
 ## Digital Citizenship = Digital Literacy + Digital Identity
 
+### Introductions
+
 ### Goal setting, Expectations
 * [Upcoming topics (subject to change!)](/schedule)
+* Domains project
+* What do you hope to get out of this?
 
-### Visitor and Resident Mapping
+### Identity: Visitor and Resident Mapping
 * [Visitor and Resident Typology](http://daveowhite.com/vandr/)
 * [Video](https://www.youtube.com/watch?v=MSK1Iw1XtwQ&feature=youtu.be)
