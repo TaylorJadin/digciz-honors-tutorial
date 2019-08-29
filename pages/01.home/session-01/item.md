@@ -9,9 +9,15 @@ continue_link: true
 hide_git_sync_repo_link: true
 ---
 ## Introductions, Expectations, and Getting Started
-* What do digital literacy and digital identity have to do with being a digital citizen? 
-* What does ethical imagination have to do with technology?
+* What do literacy and identity have to do with being a digital citizen? 
 
 ===
 
-## Hey early bird! Check back later, pretty soon there will be stuff here!
+## Digital Citizenship = Digital Literacy + Digital Identity
+
+### Goal setting, Expectations
+* [Upcoming topics (subject to change!)](/schedule)
+
+### Visitor and Resident Mapping
+* [Visitor and Resident Typology](http://daveowhite.com/vandr/)
+* [Video](https://www.youtube.com/watch?v=MSK1Iw1XtwQ&feature=youtu.be)
