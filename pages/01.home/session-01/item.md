@@ -15,7 +15,7 @@ hide_git_sync_repo_link: true
 
 ## Digital Citizenship = Digital Literacy + Digital Identity
 
-### Introductions
+### [Introductions](/intros)
 
 ### Goal setting, Expectations
 * [Upcoming topics (subject to change!)](/schedule)
