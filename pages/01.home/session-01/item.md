@@ -25,3 +25,7 @@ hide_git_sync_repo_link: true
 ### Identity: Visitor and Resident Mapping
 * [Visitor and Resident Typology](http://daveowhite.com/vandr/)
 * [Video](https://www.youtube.com/watch?v=MSK1Iw1XtwQ&feature=youtu.be)
+
+## For next time
+* Start thinking about what you want your [Knight Domains](https://knight.domains) project to be used for
+* Check out the [Knight Domains examples page](https://knight.domains/examples)
