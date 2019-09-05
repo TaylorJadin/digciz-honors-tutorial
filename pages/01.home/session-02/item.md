@@ -31,7 +31,7 @@ Privy --> Privacy
 * Local stores?
 
 ## Vulnerabilities
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lc7scxvKQOo?start=3" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F78UdORll-Q?start=83&end=256" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Erp8IAUouus" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
