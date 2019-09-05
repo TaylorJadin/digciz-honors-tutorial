@@ -50,7 +50,7 @@ What can be learned from tracking a person's use of the web?
 #### Identity theft
 
 * Old problem
-* In a digital world can be done at scale
+* In a digital world this can be done at scale
 
 #### Advertising
 
