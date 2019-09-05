@@ -30,8 +30,9 @@ Privy --> Privacy
 * Local/State/Federal government?
 * Local stores?
 
-## Vulnerabilities
+### Vulnerabilities
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F78UdORll-Q?start=83&end=256" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Erp8IAUouus" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -41,17 +42,17 @@ Privy --> Privacy
 * [Ghostery](https://www.ghostery.com)
   * Visit a few websites, maybe [snc.edu](https://snc.edu), maybe some other schools, businesses etc.
 
-## Why does this stuff matter?
+### Why does this stuff matter?
 
-### Identity theft
+#### Identity theft
 
 * Most obvious
 * Age-old problem
 * In a digital world can be done at scale
 
-### Advertising
+#### Advertising
 * Influential
 * Behavior changing
 * "Free" products can be designed to be addictive to show you more ads (more on this later!)
 
-## What can you do?
+### What can you do?
