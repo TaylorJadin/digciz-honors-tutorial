@@ -30,6 +30,8 @@ Are you protecting yourself from **harm** or **influence**?
 * School?
 * Local/State/Federal government?
 * Local stores?
+* Hospital / Doctor
+* Any person on social media / the internet?
 * More ideas?
 
 ### Vulnerabilities
