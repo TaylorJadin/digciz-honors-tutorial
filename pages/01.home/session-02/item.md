@@ -19,6 +19,7 @@ hide_git_sync_repo_link: true
 ### Skepticism, Criticism, Ethical Imagination
 
 Privacy != Secret
+
 Privy --> Privacy
 
 ### What does X know about me?
@@ -37,6 +38,7 @@ Privy --> Privacy
   * Visit a few websites, maybe [snc.edu](https://snc.edu) maybe some other schools, businesses etc.
 
 ## Why does this stuff matter?
+
 ### Identity theft
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Erp8IAUouus" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -44,7 +46,7 @@ Privy --> Privacy
 * Most obvious
 * Age-old problem
 * In a digital world can be done at scale
-* 
+
 ### Advertising
 * Influential
 * Behavior changing
