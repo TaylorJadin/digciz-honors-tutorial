@@ -22,7 +22,7 @@ Privy --> Privacy
 
 Are you protecting yourself from **harm** or **influence**?
 
-### What does X know about me? (Mapping)
+### What does X know about me? (Mapping Activity)
 <!-- ![map of data a bank might know about you](https://github.com/TaylorJadin/dpl2019-data-code-ethics/raw/master/images/photo-2.jpeg) -->
 * Bank?
 * Employer?
