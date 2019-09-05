@@ -22,6 +22,8 @@ Privacy != Secret
 
 Privy --> Privacy
 
+Protect your identity from harm or influence?
+
 ### What does X know about me? (Mapping)
 <!-- ![map of data a bank might know about you](https://github.com/TaylorJadin/dpl2019-data-code-ethics/raw/master/images/photo-2.jpeg) -->
 * Bank?
@@ -34,7 +36,6 @@ Privy --> Privacy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F78UdORll-Q?start=83&end=256" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Erp8IAUouus" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Ad-tracking
@@ -43,17 +44,24 @@ Privy --> Privacy
 * [Ghostery](https://www.ghostery.com)
   * Visit a few websites, maybe [snc.edu](https://snc.edu), maybe some other schools, businesses etc.
 
-### Why does this stuff matter?
+<!-- ### Why does this stuff matter?
 
 #### Identity theft
 
-* Most obvious
-* Age-old problem
+* Old problem
 * In a digital world can be done at scale
 
 #### Advertising
-* Influential
-* Behavior changing
+
+* Influencing how you think
+* way more prevalant, harder to notice
 * "Free" products can be designed to be addictive to show you more ads (more on this later!)
+* Political advertising / propaganda?
+  * [The Great Hack](https://www.netflix.com/title/80117542)
 
 ### What can you do?
+
+* education!
+* adblocker?
+* delete stuff
+* different emails (myemail@gmail.com -> myemail+bestbuy@gmail.com) (disposable email addresses [mailinator.com](https://mailinator.com)) -->
