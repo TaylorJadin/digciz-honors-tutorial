@@ -38,11 +38,14 @@ Protect your identity from harm or influence?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Erp8IAUouus" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Ad-tracking
+### Ads and Web tracking
+
 * [Who does Google think I am?](https://adssettings.google.com/authenticated)
 * [AdChoices](http://www.aboutads.info/choices/)
 * [Ghostery](https://www.ghostery.com)
   * Visit a few websites, maybe [snc.edu](https://snc.edu), maybe some other schools, businesses etc.
+
+What can be learned from tracking a person's use of the web?
 
 <!-- ### Why does this stuff matter?
 
