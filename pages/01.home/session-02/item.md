@@ -22,7 +22,7 @@ Privacy != Secret
 
 Privy --> Privacy
 
-### What does X know about me?
+### What does X know about me? (Mapping)
 <!-- ![map of data a bank might know about you](https://github.com/TaylorJadin/dpl2019-data-code-ethics/raw/master/images/photo-2.jpeg) -->
 * Bank?
 * Employer?
