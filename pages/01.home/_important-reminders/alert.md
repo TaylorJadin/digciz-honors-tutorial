@@ -2,9 +2,8 @@
 title: 'Important Reminders'
 alert_style: alert-secondary
 published: false
-visible: false
+visible: true
 ---
 
-## For next time
-* Start thinking about what you want your [Knight Domains](https://knight.domains) project to be used for
-* Check out the [Knight Domains examples page](https://knight.domains/examples)
+## For September 12ths session
+* [Book time with Taylor](https://www.meetingbird.com/l/taylorjadin/digciz) to talk about your Domains project
