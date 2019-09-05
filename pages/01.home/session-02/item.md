@@ -23,7 +23,7 @@ Privy --> Privacy
 Are you protecting yourself from **harm** or **influence**?
 
 ### What does X know about me? (Mapping Activity)
-<!-- ![map of data a bank might know about you](https://github.com/TaylorJadin/dpl2019-data-code-ethics/raw/master/images/photo-2.jpeg) -->
+![map of data a bank might know about you](https://github.com/TaylorJadin/dpl2019-data-code-ethics/raw/master/images/photo-2.jpeg)
 **x = **
 * Bank?
 * Employer?
@@ -47,7 +47,7 @@ Are you protecting yourself from **harm** or **influence**?
 
 What can be learned from tracking a person's use of the web?
 
-<!-- ### Why does this stuff matter?
+### Why does this stuff matter?
 
 #### Identity theft
 
@@ -67,4 +67,4 @@ What can be learned from tracking a person's use of the web?
 * education!
 * adblocker?
 * delete stuff
-* different emails (myemail@gmail.com -> myemail+bestbuy@gmail.com) (disposable email addresses [mailinator.com](https://mailinator.com)) -->
+* different emails (myemail@gmail.com -> myemail+bestbuy@gmail.com) (disposable email addresses [mailinator.com](https://mailinator.com))
