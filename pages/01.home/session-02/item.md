@@ -22,20 +22,19 @@ Privacy != Secret
 
 Privy --> Privacy
 
+### Ad-tracking
+* [Who does Google think I am?](https://adssettings.google.com/authenticated)
+* [AdChoices](http://www.aboutads.info/choices/)
+* [Ghostery](https://www.ghostery.com)
+  * Visit a few websites, maybe [snc.edu](https://snc.edu), maybe some other schools, businesses etc.
+
 ### What does X know about me?
-![map of data a bank might know about you](https://github.com/TaylorJadin/dpl2019-data-code-ethics/raw/master/images/photo-2.jpeg)
+<!-- ![map of data a bank might know about you](https://github.com/TaylorJadin/dpl2019-data-code-ethics/raw/master/images/photo-2.jpeg) -->
 * Bank?
 * Employer?
 * School?
 * Local/State/Federal government?
 * Local stores?
-
-
-### Ad-tracking
-* [Who does Google think I am?](https://adssettings.google.com/authenticated)
-* [AdChoices](http://www.aboutads.info/choices/)
-* [Ghostery](https://www.ghostery.com)
-  * Visit a few websites, maybe [snc.edu](https://snc.edu) maybe some other schools, businesses etc.
 
 ## Why does this stuff matter?
 
@@ -51,3 +50,5 @@ Privy --> Privacy
 * Influential
 * Behavior changing
 * "Free" products can be designed to be addictive to show you more ads (more on this later!)
+
+## What can you do?
