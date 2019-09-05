@@ -22,12 +22,6 @@ Privacy != Secret
 
 Privy --> Privacy
 
-### Ad-tracking
-* [Who does Google think I am?](https://adssettings.google.com/authenticated)
-* [AdChoices](http://www.aboutads.info/choices/)
-* [Ghostery](https://www.ghostery.com)
-  * Visit a few websites, maybe [snc.edu](https://snc.edu), maybe some other schools, businesses etc.
-
 ### What does X know about me?
 <!-- ![map of data a bank might know about you](https://github.com/TaylorJadin/dpl2019-data-code-ethics/raw/master/images/photo-2.jpeg) -->
 * Bank?
@@ -36,11 +30,20 @@ Privy --> Privacy
 * Local/State/Federal government?
 * Local stores?
 
+## Vulnerabilities
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lc7scxvKQOo?start=3" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Erp8IAUouus" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Ad-tracking
+* [Who does Google think I am?](https://adssettings.google.com/authenticated)
+* [AdChoices](http://www.aboutads.info/choices/)
+* [Ghostery](https://www.ghostery.com)
+  * Visit a few websites, maybe [snc.edu](https://snc.edu), maybe some other schools, businesses etc.
+
 ## Why does this stuff matter?
 
 ### Identity theft
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Erp8IAUouus" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * Most obvious
 * Age-old problem
