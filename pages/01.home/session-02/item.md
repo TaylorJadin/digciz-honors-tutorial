@@ -16,13 +16,11 @@ hide_git_sync_repo_link: true
 
 ## Digital Privacy
 
-### Skepticism, Criticism, Ethical Imagination
-
 Privacy != Secret
 
 Privy --> Privacy
 
-Protect your identity from harm or influence?
+Are you protecting yourself from **harm** or **influence**?
 
 ### What does X know about me? (Mapping)
 <!-- ![map of data a bank might know about you](https://github.com/TaylorJadin/dpl2019-data-code-ethics/raw/master/images/photo-2.jpeg) -->
