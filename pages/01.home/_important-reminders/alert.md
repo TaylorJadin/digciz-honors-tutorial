@@ -5,5 +5,5 @@ published: true
 visible: true
 ---
 
-## For September 12ths session
+## For our September 12th session
 * [Book time with Taylor](https://www.meetingbird.com/l/taylorjadin/digciz) to talk about your Domains project
