@@ -20,4 +20,11 @@ hide_git_sync_repo_link: false
  * If someone has the ability to take something from you, do you still own it?
 
 ---
+![](music.png)
+
+---
+![](identity.png)
+
+---
 [youtube]https://www.youtube.com/watch?v=y1txYjoSQQc[/youtube]
+
