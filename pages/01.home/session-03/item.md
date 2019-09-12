@@ -51,4 +51,3 @@ What can be learned from tracking a person's use of the web? (mapping activity)
 
 ## Data Ownership
 [presentation="presentations/data-ownership"]
-[Full-screen](../../presentations/data-ownership)
