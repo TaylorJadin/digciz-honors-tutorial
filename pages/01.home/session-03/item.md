@@ -50,3 +50,5 @@ What can be learned from tracking a person's use of the web? (mapping activity)
 * different emails (myemail@gmail.com -> myemail+bestbuy@gmail.com) (disposable email addresses [mailinator.com](https://mailinator.com))
 
 ## Data Ownership
+[presentation="presentations/data-ownership"]
+[Full-screen](../../presentations/data-ownership)
