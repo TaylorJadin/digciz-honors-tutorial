@@ -16,6 +16,7 @@ hide_git_sync_repo_link: true
 * What does it mean to own something?
 
 ===
+## Digital Privacy (part 2)
 
 ### Ads and Web tracking
 
@@ -47,3 +48,5 @@ What can be learned from tracking a person's use of the web? (mapping activity)
 * adblocker?
 * delete stuff
 * different emails (myemail@gmail.com -> myemail+bestbuy@gmail.com) (disposable email addresses [mailinator.com](https://mailinator.com))
+
+## Data Ownership
