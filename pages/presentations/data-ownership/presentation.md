@@ -26,7 +26,7 @@ hide_git_sync_repo_link: false
 * What social traces do you leave?
 * How would you like to curate or shape your digital presence?
 
-![screenshot of search results for Taylor Jadin on google.com](search.png)
+![fit](search.png "Google search results for Taylor Jadin")
 
 ---
 
