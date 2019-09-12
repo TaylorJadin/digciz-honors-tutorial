@@ -18,12 +18,17 @@ hide_git_sync_repo_link: false
 ---
 # What does it mean to own something?
  * If someone has the ability to take something from you, do you still own it?
+ * If a website that you used shuts down, and you can no longer access your data, do you still own it?
 
 ---
-![](music.png)
+![screenshot of search results for Taylor Jadin on google.com](search.png)
+# Digital Identity
+* Who are you online?
+* What social traces do you leave?
+* How would you like to curate or shape your digital presence?
 
 ---
-![](identity.png)
+
 
 ---
 [youtube]https://www.youtube.com/watch?v=y1txYjoSQQc[/youtube]
