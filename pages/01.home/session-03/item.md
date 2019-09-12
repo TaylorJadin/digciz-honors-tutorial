@@ -20,11 +20,11 @@ hide_git_sync_repo_link: true
 
 ### Ads and Web tracking
 
-* [Who does Google think I am?](https://adssettings.google.com/authenticated)
-* [AdChoices](http://www.aboutads.info/choices/)
 * [Ghostery](https://www.ghostery.com)
   * Visit a few websites, maybe [snc.edu](https://snc.edu), maybe some other schools, businesses etc.
-
+* [Who does Google think I am?](https://adssettings.google.com/authenticated)
+* [AdChoices](http://www.aboutads.info/choices/)
+  
 What can be learned from tracking a person's use of the web? (mapping activity)
 
 ### Why does this stuff matter?
