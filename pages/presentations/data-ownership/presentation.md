@@ -21,16 +21,12 @@ hide_git_sync_repo_link: false
  * If a website that you used shuts down, and you can no longer access your data, do you still own it?
 
 ---
-# Digital Identity
-* Who are you online?
-* What social traces do you leave?
-* How would you like to curate or shape your digital presence?
-
-![](search.png "Google search results for Taylor Jadin")
 [.background-color: #FFFFFF]
+![](music.jpg)
 
 ---
-
+[.background-color: #FFFFFF]
+![](identity.png)
 
 ---
 [youtube]https://www.youtube.com/watch?v=y1txYjoSQQc[/youtube]
