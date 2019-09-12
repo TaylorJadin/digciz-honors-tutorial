@@ -14,6 +14,7 @@ hide_git_sync_repo_link: true
 
 ## Data Ownership
 * What does it mean to own something?
+* How does the business model of a "free" service affect its customers?
 
 ===
 ## Digital Privacy (part 2)
