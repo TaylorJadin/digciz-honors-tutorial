@@ -7,8 +7,8 @@ hide_git_sync_repo_link: false
 
 # Data Ownership
 
-What does it mean to own something?
-How does the business model of a "free" service affect its customers?
+* What does it mean to own something?
+* How does the business model of a "free" service affect its customers?
 
 
 ---
