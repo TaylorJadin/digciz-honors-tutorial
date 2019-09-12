@@ -27,6 +27,7 @@ hide_git_sync_repo_link: false
 * How would you like to curate or shape your digital presence?
 
 ![fit](search.png "Google search results for Taylor Jadin")
+[.background-color: #FFFFFF]
 
 ---
 
