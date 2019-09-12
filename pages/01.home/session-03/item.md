@@ -51,3 +51,11 @@ What can be learned from tracking a person's use of the web? (mapping activity)
 
 ## Data Ownership
 [presentation="presentations/data-ownership"]
+
+### App / Website Critique
+* Choose an app or website to analyze
+* Try to answer these questions
+  * What does the user interface of this service make easy to do?
+  * What does the user interface of this service make difficult to do?
+  * How does this company make money?
+  * Are the motivations of the user the same as the motivations of the company?
