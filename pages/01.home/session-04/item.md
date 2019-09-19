@@ -62,7 +62,7 @@ _Screenshot of Partices BBS at [particles.org](https://particles.org)_
     * Hypertext = Links!
     * Markup = kind of like code, but more like a document
 
-### **Activity** Let's look at some HTML (I promise its not that scary)
+### **Activity:** Let's look at some HTML (I promise its not that scary)
 
 * Visit [the first web page](http://info.cern.ch/hypertext/WWW/TheProject.html)
 * Right click on the page and select **View Page Source** (in Chrome)
