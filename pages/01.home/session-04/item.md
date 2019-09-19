@@ -33,6 +33,7 @@ _Screenshot of Partices BBS at [particles.org](https://particles.org)_
 ### The Web
 
 ![screenshot of the first website](www.png)
+
 * Timeline
   * Tim Berners-Lee invented WWW in 1989
   * First web browser in 1990
@@ -43,14 +44,17 @@ _Screenshot of Partices BBS at [particles.org](https://particles.org)_
 * [WayBack Machine](https://archive.org/web/)
 
 ### Why was the web such a big deal?
+
 * Web sites are viewable using Web browsers
 * Available to anyone with an internet connection and a computer that can run a web browser, not just the members of a particular BBS
 * HTML is easy to read / write
+  * Anyone can learn it by looking at other websites
   * Hyper Text Markup Language
     * Hypertext = Links!
     * Markup = kind of like code, but more like a document
 
 ### Let's look at some HTML (I promise its not that scary)
+
 * Visit [the first web page](http://info.cern.ch/hypertext/WWW/TheProject.html)
 * Right click on the page and select **View Page Source** (in Chrome)
 * Open Notepad (Windows), Textedit(Mac), or the text editor of your choice
