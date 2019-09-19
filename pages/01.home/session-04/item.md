@@ -16,7 +16,8 @@ hide_git_sync_repo_link: true
 ## History of the Web
 
 ### The Internet
-The global computer network. NOT web pages!
+* The global computer network. NOT web pages!
+* Websites are just one thing that we use the internet for (its by far the most popular thing)
 
 ### BBS
 ![screenshot of Particles BBS](Screen&#32;Shot&#32;2019-09-19&#32;at&#32;1.13.59&#32;PM.png)
@@ -26,4 +27,7 @@ Pre-web service. Connected to from old computer terminals, some still exist toda
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RuZUPpmXfT0?start=410" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### WWW 
+### The Web
+![screenshot of the first website](01www.png)
+* [The first webpage!](http://info.cern.ch/hypertext/WWW/TheProject.html)
+* 
