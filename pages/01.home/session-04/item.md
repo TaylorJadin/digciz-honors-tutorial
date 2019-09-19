@@ -20,7 +20,7 @@ hide_git_sync_repo_link: true
 * The global computer network. NOT web pages!
 * Websites are just one thing that we use the internet for (its by far the most popular thing)
 
-### BBS
+### Bulletin Board Systems (BBS)
 
 ![screenshot of Particles BBS](particles.png)
 _Screenshot of Partices BBS at [particles.org](https://particles.org)_
@@ -30,7 +30,10 @@ _Screenshot of Partices BBS at [particles.org](https://particles.org)_
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RuZUPpmXfT0?start=410" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### The Web
+
+
+
+### WWW (World Wide Web)
 
 ![screenshot of the first website](www.png)
 
