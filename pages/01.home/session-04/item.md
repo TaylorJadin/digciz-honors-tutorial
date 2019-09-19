@@ -1,9 +1,9 @@
 ---
 title: 'Session 4 (Sep 19)'
 published: true
-header_image_alt_text: ''
-header_image_credit: ''
-header_image_creditlink: ''
+header_image_alt_text: 'Picture of old computer on a desk'
+header_image_credit: 'Barney Livingston on Flickr'
+header_image_creditlink: 'https://www.flickr.com/photos/barnoid/1097474881'
 hide_from_post_list: false
 continue_link: true
 hide_git_sync_repo_link: true
