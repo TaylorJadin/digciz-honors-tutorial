@@ -22,7 +22,7 @@ hide_git_sync_repo_link: true
 
 ### BBS
 
-![screenshot of Particles BBS](Screen&#32;Shot&#32;2019-09-19&#32;at&#32;1.13.59&#32;PM.png)
+![screenshot of Particles BBS](particles.png)
 _Screenshot of Partices BBS at [particles.org](https://particles.org)_
 
 * Pre-web service. Connected to from old computer terminals, some still exist today!
@@ -32,7 +32,7 @@ _Screenshot of Partices BBS at [particles.org](https://particles.org)_
 
 ### The Web
 
-![screenshot of the first website](01www.png)
+![screenshot of the first website](www.png)
 * Timeline
   * Tim Berners-Lee invented WWW in 1989
   * First web browser in 1990
