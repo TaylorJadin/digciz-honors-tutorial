@@ -4,4 +4,4 @@
 
 This site is built using Grav and the Open Matter Course Hub skeleton package by hibbittsdesign.org
 
-To use this content yourself you can Download the skeleton package and copy in the pages folder form this repository.
+To use this content yourself you can download the skeleton package and copy in the pages folder form this repository.
