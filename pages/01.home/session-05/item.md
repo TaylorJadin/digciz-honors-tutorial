@@ -1,7 +1,7 @@
 ---
 title: 'Session 5 (Sep 26)'
 published: true
-header_image_alt_text: 'People building a house'
+header_image_alt_text: 'People raising a barn'
 header_image_credit: 'Photo by Randy Fath on Unsplash'
 header_image_creditlink: 'https://unsplash.com/photos/ymf4_9Y9S_A'
 hide_from_post_list: false
