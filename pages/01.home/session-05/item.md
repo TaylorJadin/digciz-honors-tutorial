@@ -9,8 +9,8 @@ continue_link: true
 hide_git_sync_repo_link: true
 ---
 ## Let's get started building some sites!
-Get help!
-1. Attend the Digital Citizenship Drop-in hours
+How do I get help?
+* Attend the Digital Citizenship Drop-in hours
    * 2-3pm every week Cofrin 119 (except for the weeks we have class)
-2. [Book an appointment with Taylor](https://www.meetingbird.com/l/taylorjadin/digciz)
-3. [Book a Tech Bar appointment](https://techbar.knight.domains/)
+* [Book an appointment with Taylor](https://www.meetingbird.com/l/taylorjadin/digciz)
+* [Book a Tech Bar appointment](https://techbar.knight.domains/)
