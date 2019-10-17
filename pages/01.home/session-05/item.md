@@ -5,7 +5,7 @@ header_image_alt_text: 'People raising a barn'
 header_image_credit: 'Photo by Randy Fath on Unsplash'
 header_image_creditlink: 'https://unsplash.com/photos/ymf4_9Y9S_A'
 hide_from_post_list: false
-continue_link: true
+continue_link: false
 hide_git_sync_repo_link: true
 ---
 ## Let's get started building some sites!
